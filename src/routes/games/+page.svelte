@@ -4,6 +4,7 @@
 
 <svelte:head>
 	<title>CleeSim — Games</title>
+	<meta name="title" content="CleeSim — Games" />
 	<link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
 </svelte:head>
 

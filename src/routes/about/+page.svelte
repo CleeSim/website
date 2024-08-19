@@ -1,5 +1,6 @@
 <svelte:head>
     <title>CleeSim — About</title>
+    <meta name="title" content="CleeSim — About" />
     <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
 </svelte:head>
 
@@ -23,7 +24,7 @@
             </a>
             <a href="https://www.roblox.com/users/4235996651/profile" class="tooltip">
                 <img src="/team/that.one.beni.png" alt="that.one.beni" class="rounded-image">
-                <span class="tooltip-text">that.one.beni</span>
+                <span class="tooltip-text">🕊️ 02/14/2024 - Long Live Beni</span>
             </a>
             <a href="https://www.roblox.com/users/4075797942/profile" class="tooltip">
                 <img src="/team/sledex.png" alt="sledex_" class="rounded-image">
@@ -34,8 +35,6 @@
                 <span class="tooltip-text">shadow1409</span>
             </a>
         </div>
-
-        <pre>🕊️ 02/14/2024 - Long Live Beni</pre>
     </main>
 </div>
 

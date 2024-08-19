@@ -1,23 +1,19 @@
-<!-- <script>
-	import { Email } from '$lib/Constants';
-</script> -->
-
 <svelte:head>
-	<title>CleeSim — Privacy policy</title>
+	<title>CleeSim — Privacy Policy</title>
+	<meta name="title" content="CleeSim — Privacy Policy" />
 	<link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
 </svelte:head>
 
 <div class="container">
 	<main>
 		<h1>Privacy Policy</h1>
-		<p>Last updated: May 7, 2024</p>
+		<p>Last updated: August 19, 2024</p>
 		<p>
 			We do not collect any data from you. We do not use cookies. We do not track you.
 		</p>
 		<p>If you have any questions about this Privacy Policy, You can contact us:</p>
 		<ul>
-			<!-- <li>By email: {Email}</li> -->
-			<li>By contacting us in our <a href="https://discord.gg/QPsfmkqUtk" target="_blank">Discord Server</a>.</li>
+			<li>By DMing the CleeSim's Utilities bot in our <a href="https://discord.gg/QPsfmkqUtk" target="_blank">Discord Server</a>.</li>
 		</ul>
 	</main>
 </div>
