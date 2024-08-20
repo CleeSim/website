@@ -16,7 +16,7 @@
 		</div>
 		<div class="buttons">
 			{#each routes as route}
-				<a class={`button ${segment === route.href ? 'selected' : ''}`} href={route.href}
+				<a class={`button ${segment === route.href || segment === route.href + '/' ? 'selected' : ''}`} href={route.href}
 					>{route.label}</a
 				>
 			{/each}

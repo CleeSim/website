@@ -22,9 +22,17 @@
                 <img src="/team/devsmartie.png" alt="devsmartie" class="rounded-image">
                 <span class="tooltip-text">devsmartie</span>
             </a>
+            <a href="https://www.roblox.com/users/606074553/profile" class="tooltip">
+                <img src="/team/trudaw.png" alt="trudaw" class="rounded-image">
+                <span class="tooltip-text">trudaw</span>
+            </a>
             <a href="https://www.roblox.com/users/4235996651/profile" class="tooltip">
                 <img src="/team/that.one.beni.png" alt="that.one.beni" class="rounded-image">
                 <span class="tooltip-text">🕊️ 02/14/2024 - Long Live Beni</span>
+            </a>
+            <a href="https://www.roblox.com/users/898070654/profile" class="tooltip">
+                <img src="/team/bestiepencil.png" alt="bestiepencil" class="rounded-image">
+                <span class="tooltip-text">bestiepencil</span>
             </a>
             <a href="https://www.roblox.com/users/4075797942/profile" class="tooltip">
                 <img src="/team/sledex.png" alt="sledex_" class="rounded-image">
