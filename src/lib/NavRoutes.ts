@@ -13,7 +13,7 @@ const routes = [
 	},
 	{
 		href: '/privacy-policy',
-		label: 'Privacy'
+		label: 'Privacy Policy'
 	}
 ];
 
