@@ -103,6 +103,13 @@
         height: 128px;
     }
 
+    @media (max-width: 600px) {
+        .rounded-image {
+            width: 64px;
+            height: 64px;
+        }
+    }
+
     .tooltip {
         position: relative;
     }
